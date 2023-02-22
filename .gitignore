@@ -1,0 +1,6 @@
+__pycache__
+.env
+env
+venv
+.vscode
+test_db.db
